@@ -348,7 +348,7 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 ## Authors
 
 <details>
-    <summary>Ismaila Lawal Elijah</summary>
+    <summary>Dominic Bor</summary>
     <ul>
     <li><a href="https://www.github.com/KDominicBor">Github</a></li>
     <li><a href="https://www.linkedin.com/in/KDominicBor">LinkedIn</a></li>
